@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   version = "1.3">
+   <BuildAction>
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForRunning = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "FCA1519A9CD2FDF62DEE536B"
+               BuildableName = "NightMode_Leon.app"
+               BlueprintName = "NightMode_Leon"
+               ReferencedContainer = "container:NightMode_Leon.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <LaunchAction
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "FCA1519A9CD2FDF62DEE536B"
+            BuildableName = "NightMode_Leon.app"
+            BlueprintName = "NightMode_Leon"
+            ReferencedContainer = "container:NightMode_Leon.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchAction>
+</Scheme>
